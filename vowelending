@@ -1,1 +1,1 @@
-ls -a $1 | grep [aAeEiIoOuU]$
+ls -a $1 | grep '[aAeEiIoOuU]\.'
